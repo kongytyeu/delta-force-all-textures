@@ -1,0 +1,7 @@
+# 原始导出文件不纳入公开仓库
+_原始导出/
+
+# 常见本地临时文件
+Thumbs.db
+desktop.ini
+.DS_Store
